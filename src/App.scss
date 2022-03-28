@@ -1,0 +1,49 @@
+
+body {
+    font-family: 'EB Garamond', serif;
+    color: #825C51;
+
+}
+
+.contenedor-pagina {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    .imagen {
+        width: 40%;
+        display: flex;
+        justify-content: center;
+        img {
+            width: 50%;
+        }
+    }
+    .mapa {
+        background-color: #825C51;
+        padding: 20px;
+        color: white;
+        margin: 20px;
+    }
+    .cursiva {
+        font-style: italic;
+    }
+    .cosas {
+        width: 70%;
+        background-color: #825C51;
+        padding: 30px;
+        color: white;
+        font-size: 20px;
+        margin-bottom: 50px;
+        .regalo {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            p {
+                margin: 0;
+            }
+        }
+    }
+
+
+
+}
