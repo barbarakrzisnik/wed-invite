@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div className="contenedor-pagina">
       <div className="imagen">
-        <img src={nombres}></img>
+        <img src={nombres} alt="titulo"></img>
       </div>
       <div>
         <p>
@@ -16,12 +16,12 @@ const App = () => {
         </p>
       </div>
       <div className="mapa">
-         <a href="https://www.google.com/maps/dir/Parroquia+Virgen+de+las+Flores,+Juez+de+la+Gándara,+Morón,+Provincia+de+Buenos+Aires/-34.823175,-58.7835084/@-34.8052562,-58.8109793,15.67z/data=!4m14!4m13!1m10!1m1!1s0x95bcb89d87e7bc05:0x6e95892f14f8e247!2m2!1d-58.6149232!2d-34.6444808!3m4!1m2!1d-58.8057568!2d-34.7420002!3s0x95bceba1da1a5ec7:0xfeffaa2d7a9135b2!1m0!3e0?hl=es-AR"><img src={mapita}></img></a>
+         <a href="https://www.google.com/maps/dir/Parroquia+Virgen+de+las+Flores,+Juez+de+la+Gándara,+Morón,+Provincia+de+Buenos+Aires/-34.823175,-58.7835084/@-34.8052562,-58.8109793,15.67z/data=!4m14!4m13!1m10!1m1!1s0x95bcb89d87e7bc05:0x6e95892f14f8e247!2m2!1d-58.6149232!2d-34.6444808!3m4!1m2!1d-58.8057568!2d-34.7420002!3s0x95bceba1da1a5ec7:0xfeffaa2d7a9135b2!1m0!3e0?hl=es-AR"><img src={mapita} alt="mapa"></img></a>
          
       </div>
       <p>Hace click en el mapa para seguir el camino!</p>
       <div>
-        <img src={linea}></img>
+        <img src={linea} alt="linea"></img>
       </div>
       <h2>ALGUNAS COSAS A TENER EN CUENTA!</h2>
       <div className="cosas">
