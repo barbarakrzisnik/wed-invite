@@ -2,7 +2,6 @@ import nombres from "./img/nombres.png";
 import linea from "./img/linea.png";
 import mapita from "./img/mapa.png";
 import "./App.scss";
-import Mapa from "./Mapa";
 
 const App = () => {
   return (
@@ -52,9 +51,3 @@ const App = () => {
 };
 
 export default App;
-
-{
-  /* <Mapa 
-    googleMapURL = "https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCLw479OYxdQt4kJfGgvPGlyq35JyYQTfM"
-    /> */
-}
