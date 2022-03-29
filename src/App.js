@@ -27,10 +27,7 @@ const App = () => {
       <div className="cosas">
         <p className="cursiva">¿Qué pasa si llueve?  </p>
           <p>La fiesta es la misma, pero cambiamos de
-          locación! 
-          Nos vamos a 
-          Mi Rancho - Newton y El Lirio, Ruta 3 km 39.5 - Virrey del Pino 
-          podes seguir la ubicación <a href="https://goo.gl/maps/fyAZpk5SvueLD7Py9">aca</a>! </p> 
+          locación. Te vamos a avisar algunos días antes! Nos vamos a Mi Rancho - Newton y El Lirio, Ruta 3 km 39.5 - Virrey del Pino podes seguir la ubicación <a href="https://goo.gl/maps/fyAZpk5SvueLD7Py9">aca</a>! </p> 
           <p className="cursiva"> ¿Qué me pongo? </p>
           <p> Metele modo fiesta, pero venite cómodo! Elegante sport. Sport de zapatillas</p>
           <p className="cursiva">¿Regalo? </p>
