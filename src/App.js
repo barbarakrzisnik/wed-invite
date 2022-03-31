@@ -40,7 +40,7 @@ const App = () => {
                 <p>CBU: 00701828-30004022422719</p>
                 <p>ALIAS: SIGNO.BANDO.PAJARO</p>
           </div>
-          <p className="cursiva"> ¿Donde confirmo asistencia? </p> 
+          <p className="cursiva"> ¿Dónde confirmo asistencia? </p> 
           <p> Por whatsapp, por mail, por correo, por paloma mensajera, donde quieras. Solo asegurate de avisarnos antes del 8/4. Si tenes alguna restriccion alimentaria aclaralo asi lo tenemos en cuenta! </p>
       </div>
     </div>
